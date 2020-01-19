@@ -1,0 +1,8 @@
+Origin: Matto03 repo
+Label: 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Where I host all the debs that arent hosted anymore
