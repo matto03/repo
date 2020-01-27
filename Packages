@@ -1,28 +1,109 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.hackyouriphone.jellyfish
+Version: 1.3.3k
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspros
+Filename: ./deb/com.hackyouriphone.jellyfish_1.3.3k_iphoneos-arm.deb
+Size: 212858
+MD5sum: c1b7ce703e366b6c95afea4a1be6a8db
+SHA1: 2db31e89947c2f271545dab665c9bf16aff1f9ec
+SHA256: 2e0e6490e6d77e3c431791c73d5b2dd782848c18dc4a42119dc96482b667cda7
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=jellyfish
+Description: Modern Lockscreen
+Author: Justin Proulx and AppleBetas <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=jellyfish
+Name: Jellyfish
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=jellyfish
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.hackyouriphone.ultrasound
+Version: 1.2.9
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
+Filename: ./deb/com.hackyouriphone.ultrasound_1.2.9_iphoneos-arm.deb
+Size: 344404
+MD5sum: b441b798769b3c006b017255097024d7
+SHA1: eea9a95bcd4c7c07d7095ca48cd141ea66681c9c
+SHA256: 8a5987d6164d9415b87d458cbc8bd3a76a37b94ff8a4dbb7e109588397c57b90
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
+Description: The volume HUD you deserve. — Supports iOS 11 and 12.
+Author: Ayden Panhuyzen <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
+Name: Ultrasound
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=willow
+
+Package: com.lema.michael.rhino
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2412
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./deb/com.lema.michael.rhino_1.7_iphoneos-arm.deb
+Size: 863522
+MD5sum: 3b9ecd110ac063d826d4c9afe94ec826
+SHA1: 57d10be7bfa31e7acccc459d80b12839b5223d0c
+SHA256: e2717688a5f23d7b5ef4fa990821a57bf4ad443f330594630d2ec9c20227a7fc
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
+Description: Download Instagram Live Videos and more
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Michael Lema <samewhitetee@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
+Dev: lema
+Icon: file:///Library/Application%20Support/Rhino.bundle/Checkmark@2x.png
+Name: Rhino
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.nepeta.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./deb/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 102528
+MD5sum: aaf1049e997d4c17a1148dfe5f1daa5f
+SHA1: b6c42306ab0e2d2af01ff8908694d5888cbb5736
+SHA256: cab4c478070b1d34ed1ee75e0e5939fca1643d1496e9164a9df5e46ee02e28cb
+Section: Tweaks
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Author: Nepeta
+Name: UnSub
+
+Package: net.hollr2099.betternetpp
+Version: 1.0.1.4
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./deb/net.hollr2099.betternetpp_1.0.1.4_iphoneos-arm.deb
+Size: 8052
+MD5sum: 49be3e9674932a7748a0ab98c61f0860
+SHA1: 4e41c56652c8076c0116100a8e2a5a2acd88d82d
+SHA256: a5d18a4e2d560de757dc17d021ad3c05272e237353870f94c70c1bb9b2785133
+Section: Tweaks
+Description: Free Premium Betternet
+Author: SarahH12099
+Name: Betternet++
+
+Package: net.hollr2099.modernstatusbar
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.modernstatusbar
+Filename: ./deb/net.hollr2099.modernstatusbar_1.0.0.1_iphoneos-arm.deb
+Size: 5784
+MD5sum: 816f2072f53a235956adf975b5884f26
+SHA1: 62dcf3114520fa64cbd27a206fd4c5c8c97d47e1
+SHA256: 8a2700564110feefab382a6144cbcbbe939b3169697200638e9c117d77fb3ff6
+Section: Tweaks
+Author: SarahH12099
 
