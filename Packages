@@ -35,7 +35,7 @@ Author: Ayden Panhuyzen <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
 Name: Ultrasound
 
-Package: com.lema.michael.rhino
+Package: com.lema.michael.rhino.1.7
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -48,12 +48,11 @@ SHA1: 57d10be7bfa31e7acccc459d80b12839b5223d0c
 SHA256: e2717688a5f23d7b5ef4fa990821a57bf4ad443f330594630d2ec9c20227a7fc
 Section: Tweaks
 Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
 Description: Download Instagram Live Videos and more
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Michael Lema <samewhitetee@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
-Dev: lema
+Author: lema
 Name: Rhino
 
 Package: me.nepeta.unsub
@@ -102,7 +101,7 @@ MD5sum: 816f2072f53a235956adf975b5884f26
 SHA1: 62dcf3114520fa64cbd27a206fd4c5c8c97d47e1
 SHA256: 8a2700564110feefab382a6144cbcbbe939b3169697200638e9c117d77fb3ff6
 Section: Tweaks
+Description: mOdErN status ｂａｒ
 Author: SarahH12099
 Name: Modern Status Bar
-Description: mOdErN status ｂａｒ
 
