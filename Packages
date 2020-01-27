@@ -9,7 +9,7 @@ Size: 212858
 MD5sum: c1b7ce703e366b6c95afea4a1be6a8db
 SHA1: 2db31e89947c2f271545dab665c9bf16aff1f9ec
 SHA256: 2e0e6490e6d77e3c431791c73d5b2dd782848c18dc4a42119dc96482b667cda7
-Section: HYI - Tweaks
+Section: Tweaks
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=jellyfish
 Description: Modern Lockscreen
 Author: Justin Proulx and AppleBetas <repo@hackyouriphone.org>
@@ -28,7 +28,7 @@ Size: 344404
 MD5sum: b441b798769b3c006b017255097024d7
 SHA1: eea9a95bcd4c7c07d7095ca48cd141ea66681c9c
 SHA256: 8a5987d6164d9415b87d458cbc8bd3a76a37b94ff8a4dbb7e109588397c57b90
-Section: HYI - Tweaks
+Section: Tweaks
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
 Description: The volume HUD you deserve. — Supports iOS 11 and 12.
 Author: Ayden Panhuyzen <repo@hackyouriphone.org>
