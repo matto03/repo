@@ -51,7 +51,7 @@ Priority: optional
 Description: Download Instagram Live Videos and more
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Matto
-Depiction: ./mmm.jpg
+Depiction: ./rizelmine.html
 Name: Rhino
 
 Package: me.nepeta.unsub
