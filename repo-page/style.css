@@ -18,7 +18,7 @@ body {
 	-webkit-touch-callout:none;
 	-webkit-user-select:text;
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
-	margin: 9px auto;
+	#margin: 9px auto;
 	width: device-width;
 	max-width: 414px !important;
 	font-family: ".SFNSText-Medium", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
