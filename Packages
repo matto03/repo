@@ -35,7 +35,7 @@ Author: Ayden Panhuyzen <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
 Name: Ultrasound
 
-Package: com.lema.michael.rhino.1.7
+Package: com.lema.michael.rhino.old
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -50,9 +50,8 @@ Section: Tweaks
 Priority: optional
 Description: Download Instagram Live Videos and more
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Michael Lema <samewhitetee@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
-Author: lema
+Author: Matto
+Depiction: ./mmm.jpg
 Name: Rhino
 
 Package: me.nepeta.unsub
