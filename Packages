@@ -34,7 +34,6 @@ Description: The volume HUD you deserve. — Supports iOS 11 and 12.
 Author: Ayden Panhuyzen <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=willow
 Name: Ultrasound
-Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=willow
 
 Package: com.lema.michael.rhino
 Version: 1.7
@@ -55,9 +54,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Michael Lema <samewhitetee@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rhinoDp
 Dev: lema
-Icon: file:///Library/Application%20Support/Rhino.bundle/Checkmark@2x.png
 Name: Rhino
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: me.nepeta.unsub
 Version: 0.1.9
