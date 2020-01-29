@@ -14,7 +14,7 @@ margin-top:0px !important; padding-top:9px !important; -moz-box-shadow: inset 0 
 }
 
 pre {
-	font-size: 9px;
+	font-size: 10px;
 }
 
 body {
@@ -24,7 +24,7 @@ body {
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	margin: 9px auto;
 	width: device-width;
-	max-width: 414px !important;
+	max-width: 400px !important;
 	font-family: ".SFNSText-Medium", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
 	background-color: #efeff4;
 	min-font-size: 13px;
