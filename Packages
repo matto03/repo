@@ -92,7 +92,7 @@ Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 13.3)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
 Conflicts: io.sarahh12099.modernstatusbar
 Filename: ./deb/net.hollr2099.modernstatusbar_1.0.0.1_iphoneos-arm.deb
 Size: 5784
